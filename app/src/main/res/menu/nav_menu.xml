@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Trang Chủ"/>
+        <item
+            android:id="@+id/nav_notify"
+            android:icon="@drawable/baseline_notifications_24"
+            android:title="Thông Báo"/>
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/baseline_calendar_month_24"
+            android:title="Lịch Hẹn"/>
+        <item
+            android:id="@+id/nav_support"
+            android:icon="@drawable/baseline_support_agent_24"
+            android:title="Hỗ Trợ"/>
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/baseline_person_24"
+            android:title="Cá Nhân"/>
+    </group>
+
+</menu>
