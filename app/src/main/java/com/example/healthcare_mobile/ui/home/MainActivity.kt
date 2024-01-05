@@ -1,7 +1,8 @@
-package com.example.healthcare_mobile
+package com.example.healthcare_mobile.ui.home
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.healthcare_mobile.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
